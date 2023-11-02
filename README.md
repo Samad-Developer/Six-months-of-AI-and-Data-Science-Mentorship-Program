@@ -1,1 +1,6 @@
-# Six-months-of-AI-and-Data-Science-Mentorship-Program
+# All About git
+
+1. Initialize git repository
+   ```
+   git init
+   ```
